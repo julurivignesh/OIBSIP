@@ -1,4 +1,4 @@
-# Task 4: Email/SMS Spam Detection with Machine Learning
+# Task : Email/SMS Spam Detection with Machine Learning
 
 ## What this project does
 This project builds a spam detector that can look at a text message and figure out whether it's spam or a normal ("ham") message. I used the classic SMS Spam Collection dataset, which has around 5,500 real text messages labeled as spam or ham.
